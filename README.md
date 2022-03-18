@@ -2,7 +2,7 @@
 
 ## Team:
 
-[Matheus Soares](https://github.com/matheusgomesms) (transportation specialist)  
+[Matheus Correia](https://github.com/matheusgomesms) (transportation specialist)  
 [Minh Anh Huynh](https://github.com/MarcX23) (full stack dev/speaker)  
 [Tiago Tamagusko](https://github.com/tamagusko) (backend dev/transportation specialist)  
 
