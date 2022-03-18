@@ -6,8 +6,6 @@
 
 # Folders to ignore
 /bkp/*
-# File too big 500mb
-/data/raw/weather/DK_dmi_march.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
