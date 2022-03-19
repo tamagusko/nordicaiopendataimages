@@ -2,7 +2,7 @@
 # git clone https://github.com/tamagusko/nordicaiopendataimages.git  # clone on workdir
 
 streamlit==1.7.0
-tensorflow==2.4.0
+tensorflow==2.8.0
 numpy==1.22.3
 
 
