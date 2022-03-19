@@ -1,7 +1,12 @@
 import streamlit as st
 
 
-st.write("""
-         # Rock-Paper-Scissor Hand Sign Prediction
+st.write(
+    """
+         # Test
          """
-         )st.write("This is a simple image classification web app to predict rock-paper-scissor hand sign")file = st.file_uploader("Please upload an image file", type=["jpg", "png"])
+)
+
+st.write("web app to predict if the image needs an alarm")
+
+file = st.file_uploader("Please upload an image file", type=["jpg", "png"])
