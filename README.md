@@ -8,6 +8,9 @@
 [Minh Anh Huynh](https://github.com/MarcX23) (full stack dev/speaker)  
 [Tiago Tamagusko](https://github.com/tamagusko) (backend dev/transportation specialist)  
 
+https://colab.research.google.com/drive/1JdVmQ0kCw9Bqq_jKEYyZOD5ZCLBaZJMP#scrollTo=TJOoSNR1wQK8
+
+## [Code](https://colab.research.google.com/drive/1JdVmQ0kCw9Bqq_jKEYyZOD5ZCLBaZJMP#scrollTo=TJOoSNR1wQK8) [Presentation](https://www.canva.com/design/DAE7X42Qc-A/zB6M_xdH8WDGLdmbv8dRoA/view?utm_content=DAE7X42Qc-A&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) [MVP](https://image2alarm.herokuapp.com/)
 
 ## Problem
 
