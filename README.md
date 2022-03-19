@@ -1,6 +1,6 @@
 # Nordic AI & Open Data Hackathon (18-19 of March 2022)
 
-### Nordic Hawk: Real-time Accident Warning System
+### Intelligent Real-time Accident Warning System (IRAWS)
 
 ## Team:
 
