@@ -1,6 +1,6 @@
 # Nordic AI & Open Data Hackathon (18-19 of March 2022)
 
-### Project: Intelligent system for analysis and early warning of vehicle accidents on highways
+### Nordic Hawk: Real-time Accident Warning System
 
 ## Team:
 
