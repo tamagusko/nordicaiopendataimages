@@ -1,9 +1,4 @@
-# pip install -r requirements.txt
-# git clone https://github.com/tamagusko/nordicaiopendataimages.git  # clone on workdir
-
-streamlit
-tensorflow==2.4.0
-pillow
-numpy
-
-
+tensorflow==2.0.0
+pillow==6.2.0
+numpy==1.16.5
+streamlit==0.62.0
