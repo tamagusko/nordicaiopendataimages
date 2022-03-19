@@ -16,7 +16,7 @@ Identify vehicles that have slipped on the road, or have left the road.
 
 ## Proposed solution
 
-We use transfer learning with deep learning. The base model is InceptionResNetV2. We eliminate the classes (last layer) and retrain the model with the normal images and alarms (I'll change the name to alarm instead of accident).
+We use transfer learning with deep learning. The base model is EfficientNetB1. We eliminate the classes (last layer) and retrain the model with the normal images and alarms (I'll change the name to alarm instead of accident).
 
 ## MVP
 
