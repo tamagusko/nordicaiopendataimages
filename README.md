@@ -20,7 +20,8 @@ We use transfer learning with deep learning. The base model is EfficientNetB1. W
 
 ## MVP
 
-Link, video, mockup...
+![MVP](https://github.com/tamagusko/nordicaiopendataimages/raw/main/mvp.gif)
+[Youtube](https://youtu.be/xKLlYaEs0Bc)
 
 ---
 
