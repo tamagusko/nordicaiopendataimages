@@ -2,25 +2,27 @@
 
 ### Intelligent Real-time Accident Warning System (IRAWS)
 
+The project uses transfer learning (base model: EfficientNetB1) with deep learning to train a model to detect unusual events (skids, vehicles off-street, and on the wrong lane). To this end, images from the cameras of the Nordic countries' highways provided in the dataset were used. The team generated fake images from these real ones to simulate the unusual events. The last layer of the base model (classes) was eliminated, and the model was retrained to identify roads with normal flow and unusual events.
+
+## [Code](https://colab.research.google.com/drive/1JdVmQ0kCw9Bqq_jKEYyZOD5ZCLBaZJMP#scrollTo=TJOoSNR1wQK8) [Pitch](https://www.canva.com/design/DAE7X42Qc-A/zB6M_xdH8WDGLdmbv8dRoA/view?utm_content=DAE7X42Qc-A&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) [MVP](https://image2alarm.herokuapp.com/)
+
 ## Team:
 
 [Matheus Correia](https://github.com/matheusgomesms) (transportation specialist)  
 [Minh Anh Huynh](https://github.com/MarcX23) (full stack dev/speaker)  
 [Tiago Tamagusko](https://github.com/tamagusko) (backend dev/transportation specialist)  
 
-## [Code](https://colab.research.google.com/drive/1JdVmQ0kCw9Bqq_jKEYyZOD5ZCLBaZJMP#scrollTo=TJOoSNR1wQK8) [Presentation](https://www.canva.com/design/DAE7X42Qc-A/zB6M_xdH8WDGLdmbv8dRoA/view?utm_content=DAE7X42Qc-A&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) [MVP](https://image2alarm.herokuapp.com/)
-
 ## Problem
 
-Identify vehicles that have slipped on the road, or have left the road.
+Identify vehicles that have slipped, veered off the road, or are on the wrong lane.
 
-## Proposed solution
+## Concept
 
-We use transfer learning with deep learning. The base model is EfficientNetB1. We eliminate the classes (last layer) and retrain the model with the normal images and alarms.
+![Concept](https://github.com/tamagusko/nordicaiopendataimages/raw/main/img/concept.png)
 
 ## MVP
-
-![MVP](https://github.com/tamagusko/nordicaiopendataimages/raw/main/mvp.gif)
+[image2alarm.herokuapp.com/](https://image2alarm.herokuapp.com/)  
+![MVP](https://github.com/tamagusko/nordicaiopendataimages/raw/main/img/mvp.gif)  
 [Youtube](https://youtu.be/xKLlYaEs0Bc)
 
 ---
